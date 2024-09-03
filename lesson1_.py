@@ -29,3 +29,5 @@ favcolor = input( "what is your favorite color?")
 print(name, "your favorite color is," , favcolor )
 favfood = input("what is your favorite food?") 
 print("your favorite food is" , favfood)
+#comments for github #1
+#comments for github #2
