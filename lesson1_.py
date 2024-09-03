@@ -19,6 +19,7 @@
 #concatenation is the process of combining strings with
 #variables
 # print("You are" , age, "years old")
+#lets do some practice
 
 name = input("what is your name?")
 print("Hello", name)
